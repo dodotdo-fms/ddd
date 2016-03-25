@@ -1,0 +1,54 @@
+#u1770
+{
+	background-color: #F0F0F0;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+}
+
+#u1773
+{
+	border-style: none;
+	border-color: transparent;
+	border-radius: 0px 5px 5px 0px ;
+	-webkit-transform: matrix(0,-1,1,0,-61,100);
+	-ms-transform: matrix(0,-1,1,0,-61,100);
+	transform: matrix(0,-1,1,0,-61,100);
+	position: relative;
+	background: transparent url("../images/arrows-mn_arrow_right.png") no-repeat center center;
+}
+
+#u1773:hover
+{
+	background: #EDEDED url("../images/arrows-mn_arrow_right.png") no-repeat center center;
+}
+
+#u1773:active
+{
+	background: #F7F7F7 url("../images/arrows-mn_arrow_right.png") no-repeat center center;
+}
+
+#u3206-4,#u3223-4
+{
+	background-color: transparent;
+	line-height: 16px;
+	color: #444C5B;
+	text-align: center;
+	font-size: 13px;
+	font-family: roboto, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u3207,#u3225
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u3429
+{
+	background-color: #7F7F7F;
+	position: relative;
+}
+

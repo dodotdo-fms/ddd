@@ -1,0 +1,80 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dodotdo.com" resolutions="1x" timestamp="1454405448500">
+  <folder name="css">
+    <file name="site_global.css" crc="3813097352"/>
+    <file name="master_a-master.css" crc="250922628" ref="index"/>
+    <file name="index.css" crc="3970769562" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:index"/>
+    <file name="museutils.js" crc="275725342" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="phone>index:index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:index"/>
+    <file name="webpro.js" crc="3883484123" ref="phone>index:index"/>
+    <file name="form_check.php" crc="3932029206" ref="phone>index:index"/>
+    <file name="form_throttle.php" crc="314685628" ref="phone>index:index"/>
+    <file name="form_process.php" crc="401030677" ref="phone>index:index"/>
+    <file name="form-u1840.php" crc="3771065883" ref="phone>index"/>
+    <file name="museredirect.js" crc="3899419633" ref="index"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index"/>
+    <file name="form-u3041.php" crc="312628728" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo_1.png" crc="514829889" seo="true" ref="phone>index:index"/>
+    <file name="hotel6-u3534-fr.png" crc="332883972" ref="phone>index"/>
+    <file name="checkboxblack-02.png" crc="3874235998" seo="true" ref="phone>index:index"/>
+    <file name="manager_phone200x358.png" crc="4178883514" seo="true" ref="phone>index"/>
+    <file name="staff_grar_2300x380.jpg" crc="94952561" seo="true" ref="phone>index"/>
+    <file name="tablet0006420x301.png" crc="43600223" seo="true" ref="phone>index"/>
+    <file name="all_logo380x157.png" crc="187191922" seo="true" ref="phone>index"/>
+    <file name="photo01170x112.jpg" crc="314298055" seo="true" ref="phone>index"/>
+    <file name="photo02170x112.jpg" crc="144904895" seo="true" ref="phone>index"/>
+    <file name="bg_2.jpg" crc="176499535" ref="phone>index"/>
+    <file name="parkhyatt-u710-fr.png" crc="290363907" ref="phone>index"/>
+    <file name="u1864-17.png" crc="54445313" ref="phone>index"/>
+    <file name="u1864-17-r.png" crc="4185823800" ref="phone>index"/>
+    <file name="u1864-17-m.png" crc="4185823800" ref="phone>index"/>
+    <file name="u1864-17-fs.png" crc="54445313" ref="phone>index"/>
+    <file name="gear_radio_1-u3535-fr.png" crc="409252144" ref="phone>index"/>
+    <file name="gear_radio_2-u3540-fr.png" crc="176952202" ref="phone>index"/>
+    <file name="manager_watch.jpg" crc="3908122845" seo="true" ref="phone>index:index"/>
+    <file name="hotel2-u3597-fr.png" crc="73661887" ref="phone>index:index"/>
+    <file name="hotel3-u3618-fr.png" crc="469156274" ref="phone>index:index"/>
+    <file name="s6_mockup2150x258.png" crc="4701355" seo="true" ref="phone>index"/>
+    <file name="hotel4-u3642-fr.png" crc="4020509398" ref="phone>index:index"/>
+    <file name="arrows-mn_arrow_right.png" crc="4062137678" ref="phone>index:index"/>
+    <file name="logo_2.png" crc="4084330274" seo="true" ref="phone>index:index"/>
+    <file name="elm_logo.png" crc="4063153188" seo="true" ref="phone>index:index"/>
+    <file name="bg_1.jpg" crc="31273466" ref="index"/>
+    <file name="downicon.png" crc="4264842625" seo="true" ref="index"/>
+    <file name="hotel6-u3084-3-fr.png" crc="3818575703" ref="index"/>
+    <file name="gear_radio_1.png" crc="4134814363" seo="true" ref="index"/>
+    <file name="gear_radio_2.png" crc="4196582442" seo="true" ref="index"/>
+    <file name="artboard 3-u2869-3-fr.png" crc="290363907" ref="index"/>
+    <file name="manager_phone.png" crc="487501385" seo="true" ref="index"/>
+    <file name="staff_grar_2.jpg" crc="503219645" seo="true" ref="index"/>
+    <file name="tablet0006.png" crc="389443480" seo="true" ref="index"/>
+    <file name="s6_mockup2.png" crc="163579350" seo="true" ref="index"/>
+    <file name="all_logo.png" crc="3807767156" seo="true" ref="index"/>
+    <file name="arrows-mn_close.png" crc="236761104" seo="true" ref="index"/>
+    <file name="photo01.jpg" crc="329361591" seo="true" ref="index"/>
+    <file name="photo02.jpg" crc="123100142" seo="true" ref="index"/>
+    <file name="south-korean-flag-03.jpg" crc="435118343" seo="true" ref="index"/>
+    <file name="south-korean-flag-02.jpg" crc="3891956056" seo="true" ref="index"/>
+    <file name="u3069-17.png" crc="3882054948" ref="index"/>
+    <file name="u3069-17-r.png" crc="4243467331" ref="index"/>
+    <file name="u3069-17-m.png" crc="4243467331" ref="index"/>
+    <file name="u3069-17-fs.png" crc="3882054948" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4201132074" ref="phone>index"/>
+      <file name="index.css" crc="4118729890" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="347381356" seo="true" mt="1454402215741" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4266908778" seo="true" mt="1454405344753" redirect="true"/>
+</manifest>
