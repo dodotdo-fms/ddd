@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dodotdo.com" resolutions="1x" timestamp="1454405448500">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dodotdo_0523.com" resolutions="1x" timestamp="1463975451812">
   <folder name="css">
     <file name="site_global.css" crc="3813097352"/>
-    <file name="master_a-master.css" crc="250922628" ref="index"/>
-    <file name="index.css" crc="3970769562" ref="index"/>
+    <file name="master_a-master.css" crc="361338916" ref="index"/>
+    <file name="index.css" crc="3994754304" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:index"/>
@@ -58,6 +58,35 @@
     <file name="staff_grar_2.jpg" crc="503219645" seo="true" ref="index"/>
     <file name="tablet0006.png" crc="389443480" seo="true" ref="index"/>
     <file name="s6_mockup2.png" crc="163579350" seo="true" ref="index"/>
+    <file name="shutterstock_256227517-u3705-3-fr.png" crc="4002235357" ref="index"/>
+    <file name="shutterstock_401695120.jpg" crc="4243604112" seo="true" ref="index"/>
+    <file name="fotolia_104890933_s-u3726-3-fr.png" crc="3920324994" ref="index"/>
+    <file name="shutterstock_334862972.jpg" crc="3915828223" seo="true" ref="index"/>
+    <file name="shutterstock_209928085.jpg" crc="518725033" seo="true" ref="index"/>
+    <file name="shutterstock_274579301-u3738-3-fr.png" crc="126585013" ref="index"/>
+    <file name="붙여 넣은 svg 22577x135.svg" crc="344332783" ref="index"/>
+    <file name="붙여 넣은 svg 22577x135_poster_.png" crc="352626574" ref="index"/>
+    <file name="붙여 넣은 svg 182978x127.svg" crc="23345414" ref="index"/>
+    <file name="붙여 넣은 svg 182978x127_poster_.png" crc="252538003" ref="index"/>
+    <file name="붙여 넣은 svg 182978x1272.svg" crc="219804788" ref="index"/>
+    <file name="붙여 넣은 svg 182978x127_poster_2.png" crc="4054650613" ref="index"/>
+    <file name="붙여 넣은 svg 182979x127.svg" crc="388135425" ref="index"/>
+    <file name="붙여 넣은 svg 182979x127_poster_.png" crc="4026068780" ref="index"/>
+    <file name="mockamockups_freebie 2-u3765-3-fr.png" crc="3987670455" ref="index"/>
+    <file name="tablet homepage.png" crc="315281524" seo="true" ref="index"/>
+    <file name="untitle111d-1.jpg" crc="4018648075" seo="true" ref="index"/>
+    <file name="ipad_mockup.jpg" crc="340322451" seo="true" ref="index"/>
+    <file name="1.png" crc="310165741" seo="true" ref="index"/>
+    <file name="2.png" crc="262661314" seo="true" ref="index"/>
+    <file name="3.png" crc="118108470" seo="true" ref="index"/>
+    <file name="4.png" crc="127501141" seo="true" ref="index"/>
+    <file name="5.png" crc="235012363" seo="true" ref="index"/>
+    <file name="6.png" crc="244998620" seo="true" ref="index"/>
+    <file name="7.png" crc="4169976877" seo="true" ref="index"/>
+    <file name="8.png" crc="4195926090" seo="true" ref="index"/>
+    <file name="9.png" crc="3759881403" seo="true" ref="index"/>
+    <file name="10.png" crc="3776413101" seo="true" ref="index"/>
+    <file name="11.png" crc="378427409" seo="true" ref="index"/>
     <file name="all_logo.png" crc="3807767156" seo="true" ref="index"/>
     <file name="arrows-mn_close.png" crc="236761104" seo="true" ref="index"/>
     <file name="photo01.jpg" crc="329361591" seo="true" ref="index"/>
@@ -71,10 +100,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="4201132074" ref="phone>index"/>
-      <file name="index.css" crc="4118729890" ref="phone>index"/>
+      <file name="master_a-master.css" crc="3776278154" ref="phone>index"/>
+      <file name="index.css" crc="392983922" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="347381356" seo="true" mt="1454402215741" redirect="true"/>
+    <file name="index.html" crc="39685126" seo="true" mt="1454402215741" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4266908778" seo="true" mt="1454405344753" redirect="true"/>
+  <file name="index.html" crc="4240457449" seo="true" mt="1463975430402" redirect="true"/>
 </manifest>

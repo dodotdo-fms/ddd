@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F5;
-	background-color: #7ED4A2;
+	color: #000017;
+	background-color: #6C7572;
 }
 
 @-ms-viewport
@@ -92,9 +92,9 @@
 	border-style: solid;
 	border-color: #E5E5E5;
 	background-color: #FFFFFF;
-	line-height: 13px;
 	text-align: center;
 	font-size: 11px;
+	line-height: 13px;
 	font-family: roboto, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -111,9 +111,9 @@
 	border-style: solid;
 	border-color: #E5E5E5;
 	background-color: #FFFFFF;
-	line-height: 13px;
 	text-align: center;
 	font-size: 11px;
+	line-height: 13px;
 	font-family: roboto, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -130,9 +130,9 @@
 	border-style: solid;
 	border-color: #E5E5E5;
 	background-color: #FFFFFF;
-	line-height: 13px;
 	text-align: center;
 	font-size: 11px;
+	line-height: 13px;
 	font-family: roboto, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -158,9 +158,9 @@
 	border-style: solid;
 	border-color: #E5E5E5;
 	background-color: #FFFFFF;
-	line-height: 13px;
 	text-align: center;
 	font-size: 11px;
+	line-height: 13px;
 	font-family: roboto, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -747,9 +747,9 @@
 	min-height: 73px;
 	background-color: transparent;
 	color: #FFFFFF;
-	letter-spacing: 0px;
 	line-height: 35px;
 	font-size: 25px;
+	letter-spacing: 0px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	position: relative;
@@ -763,8 +763,8 @@
 	background-color: transparent;
 	color: #FFFFFF;
 	line-height: 21px;
-	font-size: 15px;
 	letter-spacing: 0px;
+	font-size: 15px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -1036,8 +1036,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	line-height: 14px;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1065,9 +1065,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	line-height: 14px;
 	color: #FF0000;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1095,9 +1095,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	line-height: 12px;
 	color: #00FF00;
 	font-size: 12px;
+	line-height: 12px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
