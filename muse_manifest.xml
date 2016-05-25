@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dodotdo_0523.com" resolutions="1x" timestamp="1463975451812">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="elmsystem0523.com" resolutions="1x" timestamp="1464141697560">
   <folder name="css">
     <file name="site_global.css" crc="3813097352"/>
-    <file name="master_a-master.css" crc="361338916" ref="index"/>
-    <file name="index.css" crc="3994754304" ref="index"/>
+    <file name="master_a-master.css" crc="4263414465" ref="index"/>
+    <file name="index.css" crc="3800058451" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:index"/>
@@ -12,26 +12,25 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="phone>index:index"/>
     <file name="pie.js" crc="3827607177" ref="phone>index:index"/>
     <file name="webpro.js" crc="3883484123" ref="phone>index:index"/>
-    <file name="form_check.php" crc="3932029206" ref="phone>index:index"/>
-    <file name="form_throttle.php" crc="314685628" ref="phone>index:index"/>
-    <file name="form_process.php" crc="401030677" ref="phone>index:index"/>
+    <file name="form_check.php" crc="3932029206" ref="phone>index"/>
+    <file name="form_throttle.php" crc="314685628" ref="phone>index"/>
+    <file name="form_process.php" crc="401030677" ref="phone>index"/>
     <file name="form-u1840.php" crc="3771065883" ref="phone>index"/>
     <file name="museredirect.js" crc="3899419633" ref="index"/>
     <file name="musewpslideshow.js" crc="360574455" ref="index"/>
     <file name="jquery.museoverlay.js" crc="342093292" ref="index"/>
     <file name="touchswipe.js" crc="4218319045" ref="index"/>
-    <file name="form-u3041.php" crc="312628728" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="logo_1.png" crc="514829889" seo="true" ref="phone>index:index"/>
+    <file name="logo_1.png" crc="514829889" seo="true" ref="phone>index"/>
     <file name="hotel6-u3534-fr.png" crc="332883972" ref="phone>index"/>
     <file name="checkboxblack-02.png" crc="3874235998" seo="true" ref="phone>index:index"/>
     <file name="manager_phone200x358.png" crc="4178883514" seo="true" ref="phone>index"/>
     <file name="staff_grar_2300x380.jpg" crc="94952561" seo="true" ref="phone>index"/>
     <file name="tablet0006420x301.png" crc="43600223" seo="true" ref="phone>index"/>
-    <file name="all_logo380x157.png" crc="187191922" seo="true" ref="phone>index"/>
-    <file name="photo01170x112.jpg" crc="314298055" seo="true" ref="phone>index"/>
-    <file name="photo02170x112.jpg" crc="144904895" seo="true" ref="phone>index"/>
+    <file name="all_logo.png" crc="357481079" seo="true" ref="phone>index"/>
+    <file name="photo01.jpg" crc="314298055" seo="true" ref="phone>index"/>
+    <file name="photo02.jpg" crc="269325612" seo="true" ref="phone>index"/>
     <file name="bg_2.jpg" crc="176499535" ref="phone>index"/>
     <file name="parkhyatt-u710-fr.png" crc="290363907" ref="phone>index"/>
     <file name="u1864-17.png" crc="54445313" ref="phone>index"/>
@@ -46,10 +45,11 @@
     <file name="s6_mockup2150x258.png" crc="4701355" seo="true" ref="phone>index"/>
     <file name="hotel4-u3642-fr.png" crc="4020509398" ref="phone>index:index"/>
     <file name="arrows-mn_arrow_right.png" crc="4062137678" ref="phone>index:index"/>
-    <file name="logo_2.png" crc="4084330274" seo="true" ref="phone>index:index"/>
-    <file name="elm_logo.png" crc="4063153188" seo="true" ref="phone>index:index"/>
+    <file name="logo_2.png" crc="4084330274" seo="true" ref="phone>index"/>
+    <file name="elm_logo.png" crc="4063153188" seo="true" ref="phone>index"/>
     <file name="bg_1.jpg" crc="31273466" ref="index"/>
     <file name="downicon.png" crc="4264842625" seo="true" ref="index"/>
+    <file name="untitl1ed-1-06.png" crc="5817438" seo="true" ref="index"/>
     <file name="hotel6-u3084-3-fr.png" crc="3818575703" ref="index"/>
     <file name="gear_radio_1.png" crc="4134814363" seo="true" ref="index"/>
     <file name="gear_radio_2.png" crc="4196582442" seo="true" ref="index"/>
@@ -87,23 +87,18 @@
     <file name="9.png" crc="3759881403" seo="true" ref="index"/>
     <file name="10.png" crc="3776413101" seo="true" ref="index"/>
     <file name="11.png" crc="378427409" seo="true" ref="index"/>
-    <file name="all_logo.png" crc="3807767156" seo="true" ref="index"/>
+    <file name="dodotdologoadd.png" crc="4126931002" seo="true" ref="index"/>
     <file name="arrows-mn_close.png" crc="236761104" seo="true" ref="index"/>
-    <file name="photo01.jpg" crc="329361591" seo="true" ref="index"/>
-    <file name="photo02.jpg" crc="123100142" seo="true" ref="index"/>
+    <file name="kakaotalk_photo_2016-02-04-00-30-40_97-crop-u4055.jpg" crc="3879489312" ref="index"/>
     <file name="south-korean-flag-03.jpg" crc="435118343" seo="true" ref="index"/>
-    <file name="south-korean-flag-02.jpg" crc="3891956056" seo="true" ref="index"/>
-    <file name="u3069-17.png" crc="3882054948" ref="index"/>
-    <file name="u3069-17-r.png" crc="4243467331" ref="index"/>
-    <file name="u3069-17-m.png" crc="4243467331" ref="index"/>
-    <file name="u3069-17-fs.png" crc="3882054948" ref="index"/>
+    <file name="elmsystemlogo.png" crc="12107079" seo="true" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="3776278154" ref="phone>index"/>
-      <file name="index.css" crc="392983922" ref="phone>index"/>
+      <file name="master_a-master.css" crc="3988639615" ref="phone>index"/>
+      <file name="index.css" crc="3811521089" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="39685126" seo="true" mt="1454402215741" redirect="true"/>
+    <file name="index.html" crc="227710855" seo="true" mt="1454402215741" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4240457449" seo="true" mt="1463975430402" redirect="true"/>
+  <file name="index.html" crc="317567729" seo="true" mt="1464141620602" redirect="true"/>
 </manifest>

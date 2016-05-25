@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000017;
-	background-color: #6C7572;
+	color: #0000E3;
+	background-color: #2F3241;
 }
 
 @-ms-viewport
@@ -92,9 +92,9 @@
 	border-style: solid;
 	border-color: #E5E5E5;
 	background-color: #FFFFFF;
+	line-height: 13px;
 	text-align: center;
 	font-size: 11px;
-	line-height: 13px;
 	font-family: roboto, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -111,9 +111,9 @@
 	border-style: solid;
 	border-color: #E5E5E5;
 	background-color: #FFFFFF;
+	line-height: 13px;
 	text-align: center;
 	font-size: 11px;
-	line-height: 13px;
 	font-family: roboto, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -130,9 +130,9 @@
 	border-style: solid;
 	border-color: #E5E5E5;
 	background-color: #FFFFFF;
+	line-height: 13px;
 	text-align: center;
 	font-size: 11px;
-	line-height: 13px;
 	font-family: roboto, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -158,9 +158,9 @@
 	border-style: solid;
 	border-color: #E5E5E5;
 	background-color: #FFFFFF;
+	line-height: 13px;
 	text-align: center;
 	font-size: 11px;
-	line-height: 13px;
 	font-family: roboto, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -220,8 +220,8 @@
 	width: 312px;
 	min-height: 32px;
 	background-color: transparent;
-	text-align: center;
 	line-height: 43px;
+	text-align: center;
 	font-size: 23px;
 	font-family: roboto, sans-serif;
 	font-weight: 500;
@@ -236,8 +236,8 @@
 	width: 362px;
 	min-height: 190px;
 	background-color: transparent;
-	text-align: center;
 	line-height: 25px;
+	text-align: center;
 	font-size: 18px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
@@ -252,8 +252,8 @@
 	width: 312px;
 	min-height: 45px;
 	background-color: transparent;
-	text-align: center;
 	line-height: 32px;
+	text-align: center;
 	font-size: 23px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
@@ -268,8 +268,8 @@
 	width: 362px;
 	min-height: 59px;
 	background-color: transparent;
-	text-align: center;
 	line-height: 25px;
+	text-align: center;
 	font-size: 18px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
@@ -335,8 +335,8 @@
 	width: 307px;
 	min-height: 59px;
 	background-color: transparent;
-	text-align: left;
 	line-height: 25px;
+	text-align: left;
 	font-size: 14px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
@@ -361,8 +361,8 @@
 	width: 312px;
 	min-height: 45px;
 	background-color: transparent;
-	text-align: center;
 	line-height: 32px;
+	text-align: center;
 	font-size: 23px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
@@ -412,8 +412,8 @@
 	width: 307px;
 	min-height: 59px;
 	background-color: transparent;
-	text-align: left;
 	line-height: 25px;
+	text-align: left;
 	font-size: 14px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
@@ -438,8 +438,8 @@
 	width: 312px;
 	min-height: 45px;
 	background-color: transparent;
-	text-align: center;
 	line-height: 32px;
+	text-align: center;
 	font-size: 23px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
@@ -495,8 +495,8 @@
 	width: 307px;
 	min-height: 59px;
 	background-color: transparent;
-	text-align: left;
 	line-height: 25px;
+	text-align: left;
 	font-size: 14px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
@@ -532,8 +532,8 @@
 	width: 312px;
 	min-height: 45px;
 	background-color: transparent;
-	text-align: center;
 	line-height: 32px;
+	text-align: center;
 	font-size: 23px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
@@ -589,8 +589,8 @@
 	width: 307px;
 	min-height: 59px;
 	background-color: transparent;
-	text-align: left;
 	line-height: 25px;
+	text-align: left;
 	font-size: 14px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
@@ -605,8 +605,8 @@
 	width: 312px;
 	min-height: 45px;
 	background-color: transparent;
-	text-align: center;
 	line-height: 32px;
+	text-align: center;
 	font-size: 23px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
@@ -630,8 +630,8 @@
 	width: 312px;
 	min-height: 45px;
 	background-color: transparent;
-	text-align: center;
 	line-height: 32px;
+	text-align: center;
 	font-size: 23px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
@@ -656,8 +656,8 @@
 	width: 307px;
 	min-height: 28px;
 	background-color: transparent;
-	text-align: center;
 	line-height: 29px;
+	text-align: center;
 	font-size: 16px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
@@ -672,8 +672,8 @@
 	width: 307px;
 	min-height: 28px;
 	background-color: transparent;
-	text-align: center;
 	line-height: 21px;
+	text-align: center;
 	font-size: 13px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
@@ -698,8 +698,8 @@
 	width: 307px;
 	min-height: 28px;
 	background-color: transparent;
-	text-align: center;
 	line-height: 29px;
+	text-align: center;
 	font-size: 16px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
@@ -714,8 +714,8 @@
 	width: 312px;
 	min-height: 45px;
 	background-color: transparent;
-	text-align: center;
 	line-height: 32px;
+	text-align: center;
 	font-size: 23px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
@@ -748,8 +748,8 @@
 	background-color: transparent;
 	color: #FFFFFF;
 	line-height: 35px;
-	font-size: 25px;
 	letter-spacing: 0px;
+	font-size: 25px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	position: relative;
@@ -763,8 +763,8 @@
 	background-color: transparent;
 	color: #FFFFFF;
 	line-height: 21px;
-	letter-spacing: 0px;
 	font-size: 15px;
+	letter-spacing: 0px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -797,8 +797,8 @@
 	min-height: 59px;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 24px;
+	text-align: center;
 	font-size: 16px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
@@ -813,8 +813,8 @@
 	min-height: 59px;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-size: 14px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
@@ -1066,8 +1066,8 @@
 	filter: alpha(opacity=0);
 	padding-top: 4px;
 	color: #FF0000;
-	font-size: 12px;
 	line-height: 14px;
+	font-size: 12px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1096,8 +1096,8 @@
 	filter: alpha(opacity=0);
 	padding-top: 4px;
 	color: #00FF00;
-	font-size: 12px;
 	line-height: 12px;
+	font-size: 12px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1579,8 +1579,8 @@
 	min-height: 59px;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 24px;
+	text-align: center;
 	font-size: 16px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
@@ -1595,8 +1595,8 @@
 	min-height: 59px;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-size: 14px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
@@ -1631,8 +1631,8 @@
 	min-height: 59px;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 24px;
+	text-align: center;
 	font-size: 16px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
@@ -1647,8 +1647,8 @@
 	min-height: 59px;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-size: 14px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
@@ -1692,8 +1692,8 @@
 	min-height: 59px;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 24px;
+	text-align: center;
 	font-size: 16px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
@@ -1708,8 +1708,8 @@
 	min-height: 59px;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-size: 14px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
