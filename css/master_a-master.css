@@ -28,21 +28,27 @@
 	background: #F7F7F7 url("../images/arrows-mn_arrow_right.png") no-repeat center center;
 }
 
-#u4088-4
+#u3206-4,#u3223-4
 {
 	background-color: transparent;
 	color: #444C5B;
-	line-height: 16px;
 	text-align: center;
 	font-size: 13px;
+	line-height: 16px;
 	font-family: roboto, sans-serif;
 	font-weight: 400;
 	position: relative;
 }
 
-#u4089
+#u3207,#u3225
 {
 	background-color: transparent;
+	position: relative;
+}
+
+#u3429
+{
+	background-color: #7F7F7F;
 	position: relative;
 }
 
