@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000ED;
-	background-color: #BFCE21;
+	color: #000011;
+	background-color: #0970D5;
 }
 
 .html
@@ -74,10 +74,10 @@
 	min-height: 281px;
 	background-color: transparent;
 	color: #F4F4F4;
+	line-height: 77px;
 	text-align: center;
 	letter-spacing: 1px;
 	font-size: 55px;
-	line-height: 77px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	left: 100px;
@@ -94,10 +94,10 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	filter: alpha(opacity=50);
 	color: #FFFFFF;
+	line-height: 12px;
 	text-align: center;
 	letter-spacing: 4px;
 	font-size: 11px;
-	line-height: 12px;
 	font-family: roboto, sans-serif;
 	font-weight: 500;
 	left: 100px;
@@ -131,8 +131,8 @@
 	min-height: 64px;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 30px;
+	text-align: center;
 	font-size: 25px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
@@ -188,10 +188,10 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 	filter: alpha(opacity=80);
 	color: #000000;
+	line-height: 16px;
 	text-align: center;
 	letter-spacing: 1px;
 	font-size: 13px;
-	line-height: 16px;
 	font-family: roboto, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -238,10 +238,10 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 	filter: alpha(opacity=80);
 	color: #000000;
+	line-height: 16px;
 	text-align: center;
 	letter-spacing: 1px;
 	font-size: 13px;
-	line-height: 16px;
 	font-family: roboto, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -288,10 +288,10 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 	filter: alpha(opacity=80);
 	color: #000000;
+	line-height: 16px;
 	text-align: center;
 	letter-spacing: 1px;
 	font-size: 13px;
-	line-height: 16px;
 	font-family: roboto, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -338,10 +338,10 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 	filter: alpha(opacity=80);
 	color: #000000;
+	line-height: 16px;
 	text-align: center;
 	letter-spacing: 1px;
 	font-size: 13px;
-	line-height: 16px;
 	font-family: roboto, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -388,10 +388,10 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 	filter: alpha(opacity=80);
 	color: #000000;
+	line-height: 16px;
 	text-align: center;
 	letter-spacing: 1px;
 	font-size: 13px;
-	line-height: 16px;
 	font-family: roboto, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -438,10 +438,10 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 	filter: alpha(opacity=80);
 	color: #000000;
+	line-height: 16px;
 	text-align: center;
 	letter-spacing: 1px;
 	font-size: 13px;
-	line-height: 16px;
 	font-family: roboto, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -572,8 +572,8 @@
 	min-height: 120px;
 	background-color: transparent;
 	color: #7F7F7F;
-	text-align: center;
 	line-height: 35px;
+	text-align: center;
 	font-size: 25px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
@@ -616,8 +616,8 @@
 	min-height: 251px;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 51px;
+	text-align: center;
 	font-size: 30px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
@@ -638,8 +638,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 37px;
+	text-align: center;
 	font-size: 22px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
@@ -664,8 +664,8 @@
 	min-height: 52px;
 	background-color: transparent;
 	color: #000000;
-	text-align: left;
 	line-height: 42px;
+	text-align: left;
 	letter-spacing: 0px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
@@ -682,10 +682,10 @@
 	min-height: 52px;
 	background-color: transparent;
 	color: #000000;
-	text-align: left;
 	line-height: 27px;
-	letter-spacing: 0px;
+	text-align: left;
 	font-size: 18px;
+	letter-spacing: 0px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	position: relative;
@@ -701,8 +701,8 @@
 	min-height: 307px;
 	background-color: transparent;
 	color: #000000;
-	font-size: 18px;
 	line-height: 36px;
+	font-size: 18px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	position: relative;
@@ -805,8 +805,8 @@
 	min-height: 307px;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 51px;
+	text-align: center;
 	font-size: 30px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
@@ -827,8 +827,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 37px;
+	text-align: center;
 	font-size: 22px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
@@ -898,8 +898,8 @@
 	min-height: 52px;
 	background-color: transparent;
 	color: #000000;
-	text-align: left;
 	line-height: 42px;
+	text-align: left;
 	letter-spacing: 0px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
@@ -955,8 +955,8 @@
 	width: 440px;
 	min-height: 307px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 36px;
+	font-size: 18px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	position: relative;
@@ -994,8 +994,8 @@
 	min-height: 251px;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 51px;
+	text-align: center;
 	font-size: 30px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
@@ -1016,8 +1016,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 37px;
+	text-align: center;
 	font-size: 22px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
@@ -1059,8 +1059,8 @@
 	min-height: 52px;
 	background-color: transparent;
 	color: #000000;
-	text-align: left;
 	line-height: 42px;
+	text-align: left;
 	letter-spacing: 0px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
@@ -1113,8 +1113,8 @@
 	width: 440px;
 	min-height: 307px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 36px;
+	font-size: 18px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	position: relative;
@@ -1152,8 +1152,8 @@
 	min-height: 251px;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 51px;
+	text-align: center;
 	font-size: 30px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
@@ -1174,8 +1174,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 37px;
+	text-align: center;
 	font-size: 22px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
@@ -1200,8 +1200,8 @@
 	min-height: 52px;
 	background-color: transparent;
 	color: #000000;
-	text-align: left;
 	line-height: 42px;
+	text-align: left;
 	letter-spacing: 0px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
@@ -1217,8 +1217,8 @@
 	width: 440px;
 	min-height: 307px;
 	background-color: transparent;
-	font-size: 18px;
 	line-height: 36px;
+	font-size: 18px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	position: relative;
@@ -1317,10 +1317,10 @@
 	min-height: 281px;
 	background-color: transparent;
 	color: #F4F4F4;
+	line-height: 77px;
 	text-align: center;
 	letter-spacing: 1px;
 	font-size: 55px;
-	line-height: 77px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	position: relative;
@@ -1336,9 +1336,9 @@
 	min-height: 84px;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 29px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 29px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	position: relative;
@@ -1379,8 +1379,8 @@
 	min-height: 52px;
 	background-color: transparent;
 	color: #000000;
-	text-align: left;
 	line-height: 49px;
+	text-align: left;
 	letter-spacing: 0px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
@@ -1394,10 +1394,10 @@
 	min-height: 295px;
 	background-color: transparent;
 	color: #000000;
-	text-align: left;
 	line-height: 27px;
-	letter-spacing: 0px;
+	text-align: left;
 	font-size: 18px;
+	letter-spacing: 0px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	margin-top: 32px;
@@ -1434,10 +1434,10 @@
 	min-height: 108px;
 	background-color: transparent;
 	color: #F4F4F4;
+	line-height: 77px;
 	text-align: center;
 	letter-spacing: 1px;
 	font-size: 55px;
-	line-height: 77px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	position: relative;
@@ -1453,9 +1453,9 @@
 	min-height: 84px;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 29px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 29px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	position: relative;
@@ -1508,8 +1508,8 @@
 	min-height: 52px;
 	background-color: transparent;
 	color: #000000;
-	text-align: left;
 	line-height: 49px;
+	text-align: left;
 	letter-spacing: 0px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
@@ -1523,10 +1523,10 @@
 	min-height: 161px;
 	background-color: transparent;
 	color: #000000;
-	text-align: left;
 	line-height: 27px;
-	letter-spacing: 0px;
+	text-align: left;
 	font-size: 18px;
+	letter-spacing: 0px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	margin-top: 43px;
@@ -1570,8 +1570,8 @@
 	min-height: 52px;
 	background-color: transparent;
 	color: #000000;
-	text-align: left;
 	line-height: 49px;
+	text-align: left;
 	letter-spacing: 0px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
@@ -1585,10 +1585,10 @@
 	min-height: 161px;
 	background-color: transparent;
 	color: #000000;
-	text-align: left;
 	line-height: 27px;
-	letter-spacing: 0px;
+	text-align: left;
 	font-size: 18px;
+	letter-spacing: 0px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	margin-top: 43px;
@@ -1618,10 +1618,10 @@
 	min-height: 161px;
 	background-color: transparent;
 	color: #000000;
-	text-align: left;
 	line-height: 27px;
-	letter-spacing: 0px;
+	text-align: left;
 	font-size: 18px;
+	letter-spacing: 0px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	margin-top: 57px;
@@ -1665,10 +1665,10 @@
 	min-height: 281px;
 	background-color: transparent;
 	color: #F4F4F4;
+	line-height: 77px;
 	text-align: center;
 	letter-spacing: 1px;
 	font-size: 55px;
-	line-height: 77px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	position: relative;
@@ -1684,9 +1684,9 @@
 	min-height: 84px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 29px;
 	text-align: left;
 	font-size: 18px;
-	line-height: 29px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	margin-left: 21px;
@@ -1746,9 +1746,9 @@
 	min-height: 84px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 34px;
 	text-align: center;
 	font-size: 24px;
-	line-height: 34px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	position: relative;
@@ -1762,9 +1762,9 @@
 	min-height: 84px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 34px;
 	text-align: center;
 	font-size: 24px;
-	line-height: 34px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	position: relative;
@@ -1779,9 +1779,9 @@
 	min-height: 84px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 34px;
 	text-align: center;
 	font-size: 24px;
-	line-height: 34px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	position: relative;
@@ -1796,9 +1796,9 @@
 	min-height: 84px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 34px;
 	text-align: center;
 	font-size: 24px;
-	line-height: 34px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	position: relative;
@@ -1841,10 +1841,10 @@
 	min-height: 172px;
 	background-color: transparent;
 	color: #F4F4F4;
+	line-height: 77px;
 	text-align: center;
 	letter-spacing: 1px;
 	font-size: 55px;
-	line-height: 77px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	position: relative;
@@ -1884,8 +1884,8 @@
 	min-height: 52px;
 	background-color: transparent;
 	color: #000000;
-	text-align: left;
 	line-height: 49px;
+	text-align: left;
 	letter-spacing: 0px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
@@ -1899,10 +1899,10 @@
 	min-height: 295px;
 	background-color: transparent;
 	color: #000000;
-	text-align: left;
 	line-height: 27px;
-	letter-spacing: 0px;
+	text-align: left;
 	font-size: 18px;
+	letter-spacing: 0px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	margin-top: 28px;
@@ -1947,8 +1947,8 @@
 	min-height: 52px;
 	background-color: transparent;
 	color: #000000;
-	text-align: left;
 	line-height: 49px;
+	text-align: left;
 	letter-spacing: 0px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
@@ -1962,10 +1962,10 @@
 	min-height: 295px;
 	background-color: transparent;
 	color: #000000;
-	text-align: left;
 	line-height: 27px;
-	letter-spacing: 0px;
+	text-align: left;
 	font-size: 18px;
+	letter-spacing: 0px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	margin-top: 33px;
@@ -2003,8 +2003,8 @@
 	min-height: 52px;
 	background-color: transparent;
 	color: #000000;
-	text-align: left;
 	line-height: 49px;
+	text-align: left;
 	letter-spacing: 0px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
@@ -2018,10 +2018,10 @@
 	min-height: 295px;
 	background-color: transparent;
 	color: #000000;
-	text-align: left;
 	line-height: 27px;
-	letter-spacing: 0px;
+	text-align: left;
 	font-size: 18px;
+	letter-spacing: 0px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	margin-top: 28px;
@@ -2114,8 +2114,8 @@
 	background-color: transparent;
 	color: #000000;
 	line-height: 27px;
-	font-size: 18px;
 	letter-spacing: 0px;
+	font-size: 18px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	position: relative;
@@ -2130,8 +2130,8 @@
 	background-color: transparent;
 	color: #000000;
 	line-height: 27px;
-	font-size: 18px;
 	letter-spacing: 0px;
+	font-size: 18px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	position: relative;
@@ -2147,8 +2147,8 @@
 	background-color: transparent;
 	color: #000000;
 	line-height: 27px;
-	font-size: 18px;
 	letter-spacing: 0px;
+	font-size: 18px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	position: relative;
@@ -2164,8 +2164,8 @@
 	background-color: transparent;
 	color: #000000;
 	line-height: 27px;
-	font-size: 18px;
 	letter-spacing: 0px;
+	font-size: 18px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	position: relative;
@@ -2181,8 +2181,8 @@
 	background-color: transparent;
 	color: #000000;
 	line-height: 27px;
-	font-size: 18px;
 	letter-spacing: 0px;
+	font-size: 18px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	position: relative;
@@ -2270,8 +2270,8 @@
 	background-color: transparent;
 	color: #000000;
 	line-height: 27px;
-	font-size: 18px;
 	letter-spacing: 0px;
+	font-size: 18px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	position: relative;
@@ -2286,8 +2286,8 @@
 	background-color: transparent;
 	color: #000000;
 	line-height: 27px;
-	font-size: 18px;
 	letter-spacing: 0px;
+	font-size: 18px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	position: relative;
@@ -2303,8 +2303,8 @@
 	background-color: transparent;
 	color: #000000;
 	line-height: 27px;
-	font-size: 18px;
 	letter-spacing: 0px;
+	font-size: 18px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	position: relative;
@@ -2320,8 +2320,8 @@
 	background-color: transparent;
 	color: #000000;
 	line-height: 27px;
-	font-size: 18px;
 	letter-spacing: 0px;
+	font-size: 18px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	position: relative;
@@ -2337,8 +2337,8 @@
 	background-color: transparent;
 	color: #000000;
 	line-height: 27px;
-	font-size: 18px;
 	letter-spacing: 0px;
+	font-size: 18px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	position: relative;
@@ -2354,8 +2354,8 @@
 	background-color: transparent;
 	color: #000000;
 	line-height: 27px;
-	font-size: 18px;
 	letter-spacing: 0px;
+	font-size: 18px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	position: relative;
@@ -2401,8 +2401,8 @@
 	background-color: transparent;
 	color: #000000;
 	line-height: 42px;
-	font-size: 35px;
 	letter-spacing: 0px;
+	font-size: 35px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
 }
@@ -2461,8 +2461,8 @@
 	background-color: transparent;
 	color: #000000;
 	line-height: 42px;
-	font-size: 35px;
 	letter-spacing: 0px;
+	font-size: 35px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
 }
@@ -2480,10 +2480,10 @@
 	min-height: 161px;
 	background-color: transparent;
 	color: #000000;
-	text-align: left;
 	line-height: 35px;
-	letter-spacing: 0px;
+	text-align: left;
 	font-size: 25px;
+	letter-spacing: 0px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	margin-top: 101px;
@@ -2656,9 +2656,9 @@
 	width: 287px;
 	min-height: 103px;
 	background-color: transparent;
+	line-height: 20px;
 	text-align: left;
 	font-size: 15px;
-	line-height: 20px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	position: relative;
@@ -2673,10 +2673,10 @@
 	width: 287px;
 	min-height: 73px;
 	background-color: transparent;
-	text-align: left;
 	line-height: 24px;
-	letter-spacing: 0px;
+	text-align: left;
 	font-size: 20px;
+	letter-spacing: 0px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -2781,9 +2781,9 @@
 	min-height: 44px;
 	background-color: transparent;
 	color: #999999;
+	line-height: 22px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 22px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -2797,9 +2797,9 @@
 	min-height: 44px;
 	background-color: transparent;
 	color: #999999;
+	line-height: 22px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 22px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -2845,8 +2845,8 @@
 	background-color: transparent;
 	color: #000000;
 	line-height: 42px;
-	font-size: 35px;
 	letter-spacing: 0px;
+	font-size: 35px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
 }
@@ -2865,8 +2865,8 @@
 	background-color: transparent;
 	color: #000000;
 	line-height: 35px;
-	font-size: 25px;
 	letter-spacing: 0px;
+	font-size: 25px;
 	font-family: roboto, sans-serif;
 	font-weight: 200;
 	margin-top: 111px;

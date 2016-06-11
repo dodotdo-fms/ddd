@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dodotdo.com" resolutions="1x" timestamp="1464946223819">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dodotdo.com" resolutions="1x" timestamp="1465627805207">
   <folder name="css">
     <file name="site_global.css" crc="3813097352"/>
-    <file name="master_a-master.css" crc="361338916" ref="index"/>
-    <file name="index.css" crc="3988770337" ref="index"/>
+    <file name="master_a-master.css" crc="421607889" ref="index"/>
+    <file name="index.css" crc="285831381" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
@@ -72,5 +72,5 @@
     <file name="elm_logo.png" crc="4063153188" seo="true" ref="index"/>
     <file name="logo_2.png" crc="4084330274" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="3948072958" seo="true" mt="1464946101295" redirect="true"/>
+  <file name="index.html" crc="50962461" seo="true" mt="1465627733471" redirect="true"/>
 </manifest>
