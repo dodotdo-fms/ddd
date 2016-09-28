@@ -586,6 +586,31 @@
 	margin-top: 36px;
 }
 
+#youtube {
+	z-index: 21;
+	min-height: 120px;
+	background-color: transparent;
+	color: #7F7F7F;
+	line-height: 35px;
+	text-align: center;
+	font-size: 25px;
+	font-family: roboto, sans-serif;
+	font-weight: 200;
+}
+
+#youtube-bw {
+	z-index: 21;
+
+	display: block;
+
+	min-height: 120px;
+	margin-top: 36px;
+}
+
+#youtube-bw > iframe {
+	width: 100%;
+}
+
 #pu3780-3
 {
 	width: 0.01px;
